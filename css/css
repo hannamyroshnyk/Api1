@@ -1,0 +1,12 @@
+.main-text {
+color: red(255, 51, 0);
+}
+#text-in-p {
+color: rgb(28, 89, 16);
+}
+div p b,div i {
+color:green;
+} 
+/*div ,name-class, #id, div p {
+color: red;
+}*/
