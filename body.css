@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
+.main-text {
+    color: #000;
+    text-align: right;
+    font-size: 1.2em; 
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'Agdasima', sans-serif; 
+    text-transform: uppercase;
+    word-spacing:  20px;
+    letter-spacing: 20px;
+    }
+   #first {
+    /*background-color:#45a397;
+    color:##562761;
+    background-image: url('https://cdn.britannica.com/67/19367-050-885866B4/Valley-Taurus-Mountains-Turkey.jpg');
+    background-repeat: no-repeat;
+    background-position: center;*/
+    color: #45a397;
+    background: #562761 url('https://cdn.britannica.com/67/19367-050-885866B4/Valley-Taurus-Mountains-Turkey.jpg') no-repeat center top;
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+    #second {
+    height: 2000px;
+    }
